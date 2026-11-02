@@ -4,8 +4,6 @@ import {
     ArrowRight,
     CalendarCheck,
     CheckCircle2,
-    Clock3,
-    UserRound,
 } from "lucide-react";
 import { doctors, services } from "../data/clinicData";
 

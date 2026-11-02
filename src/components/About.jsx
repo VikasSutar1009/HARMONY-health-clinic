@@ -1,4 +1,4 @@
-import { HeartPlus, ShieldCheck, Users, CalendarCheck, icons, } from "lucide-react";
+import { HeartPlus, ShieldCheck, Users, CalendarCheck, } from "lucide-react";
 
 const highlights = [
     {
